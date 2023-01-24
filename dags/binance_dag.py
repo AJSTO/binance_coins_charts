@@ -7,7 +7,6 @@ import pandas_gbq
 from binance.client import Client
 import pandas as pd
 from datetime import datetime, timedelta
-import uuid
 
 default_args = {
     'owner': 'adam',
@@ -15,9 +14,9 @@ default_args = {
     'retry_delay': timedelta(minutes=2),
 }
 # Bigquery project, database, table
-MY_PROJECT = 'crypto-375619'
-MY_DATASET = 'coins'
-MY_TABLE = 'coins-usdt'
+MY_PROJECT = 
+MY_DATASET = 
+MY_TABLE = 
 # Connecting to project
 KEY_PATH = f"dags/BQ_KEY.json"
 CREDENTIALS = service_account.Credentials.from_service_account_file(
@@ -25,8 +24,8 @@ CREDENTIALS = service_account.Credentials.from_service_account_file(
 )
 CLIENT = bigquery.Client(credentials=CREDENTIALS, project=CREDENTIALS.project_id, )
 # Credentials to Binance API
-API_KEY = 'qw2B0xM3SZi7b7S0VPZWX5WWy5yXlMsxjGnxnsLqqv3o0nJ0EUQUJHwe1Rz102I0'
-API_SECRET = 'ZCfy64sGXwGvGNn0VHUUP431wjmDnZqrGw1HG1DZooxLe8FaDatLY0Mz3d2XBPPO'
+API_KEY =
+API_SECRET = 
 CLIENT_BINANCE = Client(API_KEY, API_SECRET)
 # All columns needed
 PARAMS = [
