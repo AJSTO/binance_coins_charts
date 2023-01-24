@@ -130,3 +130,5 @@ If you want to stop airflow:
   localhost:8080
 ```
 Next type password and username.
+Trigger DAG:
+![IMG TRIGGER](https://github.com/AJSTO/binance_coins_charts/blob/main/img/IMG%20TRIGGER.png)
