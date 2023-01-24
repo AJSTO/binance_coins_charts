@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.idea
+.DS_Store
+logs
+binance_env
+dags/BQ_KEY.json
+dags/__pycache__
+tree.txt
