@@ -8,7 +8,7 @@
 
 ### ℹ️Project info
 
-This project is created to capture information given from Binance API. I was interested in getting information about price of coin, quoteVolume and Volume in USDT of each coin.
+This project is created to capture information given from Binance API. I was interested in getting information about price, quoteVolume and Volume in USDT of each coin.
 I projected my airflow to launch DAG every 2 miniutes to get 'live' information about coin.
 Selected pair of coins: coin noted on Binance to USDT.
 
