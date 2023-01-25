@@ -40,7 +40,7 @@ Link to generated report in looker (image captured with airflow working for 30 m
 
 ## 🗒️Database created in BIGQUERY contains tables:
 
-#### Building permissions detailed info:
+#### Coin-pairs detailed info:
  
 ```bash
 'symbol', 'priceChange', 'priceChangePercent', 'lastPrice', 
