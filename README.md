@@ -10,7 +10,7 @@
 
 This project is created to capture information given from Binance API. I was interested in getting information about price, quoteVolume and Volume in USDT of each coin.
 I projected my airflow to launch DAG every 2 miniutes to get 'live' information about coin.
-Selected pair of coins: coin noted on Binance to USDT.
+Selected pair of coins: coin noted on Binance to USDT. Collected data going to table in google bigquery. From bigquery table data is collected by Looker Studio to perform the visualization about mentioned before three parameters.
 
 ### ℹ️About Binance API
 [Binance API](https://www.binance.com/en/binance-api)
