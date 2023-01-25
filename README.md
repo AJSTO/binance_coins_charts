@@ -29,7 +29,7 @@ And also filtered pair of coins: all coins available on Binance to USDT.
 Airflow schleduer to trigger DAG every 2 minutes.
 
 ### ℹ️Deploy airflow on Cloud Run
-[Cloud Run](https://cloud.google.com/run?utm_source=google&utm_medium=cpc&utm_campaign=emea-pl-all-en-dr-bkws-all-all-trial-p-gcp-1011340&utm_content=text-ad-none-any-DEV_c-CRE_544052794495-ADGP_Hybrid%20%7C%20BKWS%20-%20PHR%20%7C%20Txt%20~%20Compute%20~%20Cloud%20Run-KWID_43700073022620957-aud-606988877974%3Akwd-1395289176175-userloc_1011531&utm_term=KW_gcp%20cloud%20run-NET_g-PLAC_&gclid=CjwKCAiAoL6eBhA3EiwAXDom5jP--KGqVFMR37Ls3SQBPuwJ1hO6eXYYWDw1Whuv1MeQtiUCgv_jTRoCO7kQAvD_BwE&gclsrc=aw.ds)
+To deploy workflow application on GCP check: [Cloud Run](https://cloud.google.com/run?utm_source=google&utm_medium=cpc&utm_campaign=emea-pl-all-en-dr-bkws-all-all-trial-p-gcp-1011340&utm_content=text-ad-none-any-DEV_c-CRE_544052794495-ADGP_Hybrid%20%7C%20BKWS%20-%20PHR%20%7C%20Txt%20~%20Compute%20~%20Cloud%20Run-KWID_43700073022620957-aud-606988877974%3Akwd-1395289176175-userloc_1011531&utm_term=KW_gcp%20cloud%20run-NET_g-PLAC_&gclid=CjwKCAiAoL6eBhA3EiwAXDom5jP--KGqVFMR37Ls3SQBPuwJ1hO6eXYYWDw1Whuv1MeQtiUCgv_jTRoCO7kQAvD_BwE&gclsrc=aw.ds)
 
 ## 🔎 Looker Studio
 Link to generated report in looker (image captured with airflow working for 30 minutes):
