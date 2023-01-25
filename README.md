@@ -125,7 +125,7 @@ If you want to stop airflow:
 ```
 
 ## ⚙️ Open airflow
-**When all containers running, get to bash into folder of git project and type:**
+**When all containers running, get to browser and type:**
 ```bash
   localhost:8080
 ```
