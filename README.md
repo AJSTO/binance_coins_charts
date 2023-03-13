@@ -34,9 +34,9 @@ To deploy workflow application on GCP check: [Cloud Run](https://cloud.google.co
 ## 🔎 Looker Studio
 Link to generated report in looker (image captured with airflow working for 30 minutes):
 
-[Coin-USDT report](https://lookerstudio.google.com/reporting/6409e551-970f-4b98-a40d-256ae9201cbb)
+[Coin-USDT report](https://lookerstudio.google.com/reporting/638e3095-e800-477b-a999-4ba525bf0fec)
 
-![IMG LOOKER](https://github.com/AJSTO/binance_coins_charts/blob/main/img/looker_v2.png)
+![IMG LOOKER](https://github.com/AJSTO/binance_coins_charts/blob/main/img/coins-chart.gif)
 
 ## 🗒️Database created in BIGQUERY contains tables:
 
